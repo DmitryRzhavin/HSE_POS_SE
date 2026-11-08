@@ -1,0 +1,12 @@
+build/
+cmake-build-*/
+.vscode/
+.idea/
+.cache/
+compile_commands.json
+*.o
+*.out
+report.csv
+*_report.csv
+my.csv
+

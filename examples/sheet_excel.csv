@@ -1,0 +1,4 @@
+student_id;criterion_id;score;comment
+S-102;HW;8,5;Сдано со второй попытки
+S-102;PROJ;17,5;
+S-101;EXAM;abc;Не число

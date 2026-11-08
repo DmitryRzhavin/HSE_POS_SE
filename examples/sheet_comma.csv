@@ -1,0 +1,5 @@
+student_id,criterion_id,score,comment
+S-102,HW,8,Сдано со второй попытки
+S-102,PROJ,17.5,
+S-101,NOPE,5,Нет такого критерия
+S-101,HW,11,Больше максимума
